@@ -52,3 +52,10 @@ print("Allowed:", res["allowed"])  # False
 cmd_res = AgentPermissionGuardrail.audit_command_safety("sudo rm -rf /")
 print("Safe:", cmd_res["safe"])  # False
 ```
+
+---
+
+## GenPark Ecosystem
+
+- **Official Website**: [https://www.genpark.ai](https://www.genpark.ai)
+- **LinkedIn Page**: [https://www.linkedin.com/company/92955550](https://www.linkedin.com/company/92955550)
