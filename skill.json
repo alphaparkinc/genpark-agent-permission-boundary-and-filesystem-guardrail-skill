@@ -1,0 +1,8 @@
+{
+  "name": "genpark-agent-permission-boundary-and-filesystem-guardrail-skill",
+  "version": "1.0.0",
+  "description": "Intercepts and audits autonomous agent tool execution against configurable security boundaries, protected paths, and destructive command filters",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
